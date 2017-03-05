@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+		"NeA": "Jatinegara",
+		"NeZ": "Rungkut",
+		"descA": "Jatinegara",
+		"descZ": "Rungkut",
+		"Customer": "Telkomsel",
+		"kapasitas": "10GB",
+        "detil": [
+				{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -6.230702,
+				  "long": 106.882743,
+				  "NE": "Jatinegara",
+				  "Modul": "OCR10T",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				},{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -6.732023,
+				  "long": 108.552316,
+				  "NE": "Cirebon",
+				  "Modul": "OCR10T",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				},{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -6.879704,
+				  "long": 109.125592,
+				  "NE": "Tegal",
+				  "Modul": "OCR10T",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				},{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -7.005145,
+				  "long": 110.438125,
+				  "NE": "Semarang",
+				  "Modul": "OCR10T",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				},{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -7.319019,
+				  "long": 112.804593,
+				  "NE": "Rungkut",
+				  "Modul": "OCR10T",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				}
+	  ]
+	},{
+		"NeA": "Jatinegara1",
+		"NeZ": "Rungkut1",
+		"descA": "Jatinegara",
+		"descZ": "Tasikmalaya",
+		"Customer": "Telkomsel",
+		"kapasitas": "10GB",
+      "detil": [
+				{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -6.230702,
+				  "long": 106.882743,
+				  "NE": "Jatinegara",
+				  "Modul": "ORC10G",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				},{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -6.917464,
+				  "long": 107.619123,
+				  "NE": "Bandung",
+				  "Modul": "OCR10G",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				},{
+				  "Transimisi": "ZTE-JVBB",
+				  "Lat": -7.350581,
+				  "long": 108.217163,
+				  "NE": "Tasik",
+				  "Modul": "OCR10G",
+				  "rack": "1",
+				  "subrack": "1",
+				  "slot": "12",
+				  "port": "1",
+				  "desc": "1",
+				  "repeater": "true"
+				}
+	  ]
+	}
+  ]
+}

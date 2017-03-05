@@ -1,0 +1,1 @@
+http://localhost:8088/joli/php/slcdetilroute.php?idNe=1&idDir=2&idModul=5&rack=1&subrack=1&slot=2&port=1

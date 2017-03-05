@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+		"NeA": "Jatinegara",
+		"NeZ": "Rungkut",
+		"descA": "Jatinegara",
+		"descZ": "Rungkut",
+		"Customer": "Telkomsel",
+		"kapasitas": "10GB"
+	},{
+		"NeA": "Jatinegara1",
+		"NeZ": "Rungkut1",
+		"descA": "Jatinegara",
+		"descZ": "Tasikmalaya",
+		"Customer": "Telkomsel",
+		"kapasitas": "10GB",
+    }
+  ]
+}
